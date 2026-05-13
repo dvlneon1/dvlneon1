@@ -7,14 +7,14 @@ Fullstack DEV junior💡
 
 ## Progamas que utilizo! 
 <div style="display: inline_block; margin-bottom: 25px;">
-    <p>IDE</p>
+    # IDE
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <br/>
-    <p>Design</p>
+    # Design
     <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
     <img align="center" alt="Adobe Illuistrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <br/>
-    <p>Navegadores</p>
+    # Navegadores 
     <img align="center" alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
     <img align="center" alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 </div>
