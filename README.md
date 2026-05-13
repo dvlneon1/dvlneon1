@@ -1,5 +1,5 @@
 ### Olá eu sou Fernando César 👋
-Sou DEV Front-end Júnior ! 💡
+Fullstack DEV junior💡
 <br/>
 
 <div style="display: inline_block; margin-bottom: 25px;">
@@ -10,8 +10,6 @@ Sou DEV Front-end Júnior ! 💡
 </div>
 <br>
 
-
-![Fernando César GitHub Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvlneon1&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia 🧑‍💻
 
